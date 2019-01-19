@@ -1,0 +1,616 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="218" />
+      <entry action="$Cut" count="7" />
+      <entry action="$Delete" count="42" />
+      <entry action="$Paste" count="407" />
+      <entry action="$SearchWeb" count="61" />
+      <entry action="$Undo" count="2" />
+      <entry action="ActivateProjectToolWindow" count="1" />
+      <entry action="ActivateStructureToolWindow" count="1" />
+      <entry action="ActivateVersionControlToolWindow" count="1" />
+      <entry action="Add On Demand Static Import" count="4" />
+      <entry action="Add Single-Member Static Import" count="2" />
+      <entry action="Add TypeCast" count="1" />
+      <entry action="Add activity to manifest" count="1" />
+      <entry action="Add library dependency" count="5" />
+      <entry action="Add library to classpath" count="4" />
+      <entry action="Android Quick Fixes" count="12" />
+      <entry action="Android.CreateResourceDirectory" count="1" />
+      <entry action="Android.RunAndroidAvdManager" count="10" />
+      <entry action="Android.RunAndroidSdkManager" count="38" />
+      <entry action="Android.SyncProject" count="76" />
+      <entry action="AndroidConnectDebuggerAction" count="1" />
+      <entry action="AndroidMigrateToAndroidxAction" count="7" />
+      <entry action="Bind parameters to fields" count="1" />
+      <entry action="Change Parameter Class" count="3" />
+      <entry action="Change class signature" count="23" />
+      <entry action="Change method signature from usage" count="3" />
+      <entry action="CheckForUpdate" count="1" />
+      <entry action="CheckinProject" count="38" />
+      <entry action="ChooseRunConfiguration" count="1" />
+      <entry action="Cleanup code" count="1" />
+      <entry action="CloseProject" count="51" />
+      <entry action="CollapseTreeNode" count="1423" />
+      <entry action="CommentByBlockComment" count="54" />
+      <entry action="ConfigureCodeStyleOnSelectedFragment" count="17" />
+      <entry action="ConfigureIcs" count="1" />
+      <entry action="ConsoleView.ClearAll" count="1" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="Create Class from New" count="1" />
+      <entry action="Create Class from Usage" count="7" />
+      <entry action="Create Local from Usage" count="5" />
+      <entry action="Create field for parameter" count="1" />
+      <entry action="Create field from Usage" count="10" />
+      <entry action="Create method from usage" count="11" />
+      <entry action="Create parameter from Usage" count="2" />
+      <entry action="Create property From Usage" count="2" />
+      <entry action="Debug" count="9" />
+      <entry action="DeveloperServices.Firebase" count="44" />
+      <entry action="DeveloperServices.UrlAssistant" count="1" />
+      <entry action="Disable  Generate overloaded method with default parameter values " count="1" />
+      <entry action="Edit intention settings" count="6" />
+      <entry action="EditSource" count="1" />
+      <entry action="Editor notification option" count="15" />
+      <entry action="EditorBackSpace" count="5869" />
+      <entry action="EditorDelete" count="1" />
+      <entry action="EditorEnter" count="207" />
+      <entry action="EditorEscape" count="1" />
+      <entry action="EditorPaste" count="2" />
+      <entry action="Enable  Settings|Code Style|Imports|Optimize imports on the fly " count="1" />
+      <entry action="Encapsulate field" count="1" />
+      <entry action="Expand Static Import" count="1" />
+      <entry action="ExportSettings" count="1" />
+      <entry action="Extract interface" count="3" />
+      <entry action="Extract string resource" count="1" />
+      <entry action="FileChooser.GotoDesktop" count="2" />
+      <entry action="FileChooser.GotoHome" count="2" />
+      <entry action="Fix Arguments" count="2" />
+      <entry action="Fix Super Method Return Type" count="1" />
+      <entry action="Fix Variable Type" count="6" />
+      <entry action="Fix modifiers" count="4" />
+      <entry action="Fix return type" count="10" />
+      <entry action="Generate overloaded method with default parameter values" count="1" />
+      <entry action="Git.Add" count="2" />
+      <entry action="Git.Branches" count="4" />
+      <entry action="Git.Init" count="1" />
+      <entry action="Go to implementation(s)" count="4" />
+      <entry action="Go to super method" count="3" />
+      <entry action="GoogleCloudTools.DeployToAppEngine" count="1" />
+      <entry action="GoogleCloudTools.SampleImport" count="1" />
+      <entry action="GoogleLogin.LoginService" count="5" />
+      <entry action="GotoDeclaration" count="46" />
+      <entry action="Groovy Introduce local variable" count="1" />
+      <entry action="HideAllWindows" count="10" />
+      <entry action="Implement abstract class or interface" count="2" />
+      <entry action="Implement methods" count="5" />
+      <entry action="Import class" count="6" />
+      <entry action="ImportApkAction" count="4" />
+      <entry action="ImportModule" count="2" />
+      <entry action="ImportProject" count="1" />
+      <entry action="ImportSettings" count="2" />
+      <entry action="Insert new" count="3" />
+      <entry action="Introduce local variable" count="1" />
+      <entry action="InvalidateCaches" count="23" />
+      <entry action="Join Declaration and Assignment" count="1" />
+      <entry action="Kotlin.NewFile" count="1" />
+      <entry action="LoadUnloadModules" count="2" />
+      <entry action="MakeGradleProject" count="29" />
+      <entry action="Migrate" count="1" />
+      <entry action="Move initializer to constructor" count="1" />
+      <entry action="NewClass" count="19" />
+      <entry action="NewDir" count="22" />
+      <entry action="NewFile" count="2" />
+      <entry action="NewModuleInGroup" count="4" />
+      <entry action="NewProject" count="20" />
+      <entry action="OpenFile" count="53" />
+      <entry action="OpenModuleSettings" count="31" />
+      <entry action="Optimize imports" count="10" />
+      <entry action="OptimizeImports" count="1" />
+      <entry action="Parameter Name Hints" count="1" />
+      <entry action="PasteMultiple" count="6" />
+      <entry action="Pull up" count="8" />
+      <entry action="RefactoringMenuRenameFile" count="1" />
+      <entry action="Refactorings.QuickListPopupAction" count="2" />
+      <entry action="Remove type arguments" count="2" />
+      <entry action="Rename Wrong Reference" count="5" />
+      <entry action="Rename end tag  manifest  to  uses " count="1" />
+      <entry action="RenameElement" count="4" />
+      <entry action="RenameFile" count="2" />
+      <entry action="Rerun" count="1" />
+      <entry action="Reset to default namespace" count="1" />
+      <entry action="Run" count="115" />
+      <entry action="Run inspection on ..." count="1" />
+      <entry action="RunClass" count="1" />
+      <entry action="SafeDelete" count="1" />
+      <entry action="SearchEverywhere" count="5" />
+      <entry action="ShowErrorDescription" count="4" />
+      <entry action="ShowIntentionActions" count="211" />
+      <entry action="ShowSettings" count="110" />
+      <entry action="Split Declaration" count="1" />
+      <entry action="Start.Use.Vcs" count="3" />
+      <entry action="Stop" count="15" />
+      <entry action="Suppress_ Add tools_ignore= ExtraText  attribute" count="1" />
+      <entry action="Synchronize" count="6" />
+      <entry action="TemplateProjectProperties" count="3" />
+      <entry action="TemplateProjectStructure" count="1" />
+      <entry action="ToggleLineBreakpoint" count="7" />
+      <entry action="Unwrap block" count="1" />
+      <entry action="Vcs.Push" count="1" />
+      <entry action="Vcs.ShowTabbedFileHistory" count="2" />
+      <entry action="Vcs.UpdateProject" count="16" />
+      <entry action="WelcomeScreen.RemoveSelected" count="56" />
+      <entry action="editRunConfigurations" count="1" />
+      <entry action="template.create.ActivityEmpty Activity" count="2" />
+      <entry action="template.create.ActivityFragment + ViewModel" count="1" />
+      <entry action="template.create.ActivityLogin Activity" count="2" />
+      <entry action="template.create.FolderXML Resources Folder" count="1" />
+      <entry action="template.create.OtherAndroid Manifest File" count="2" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1509790191901" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="refactoring.moveTopLevel" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="6" last-shown="0" last-used="1546346883566" shown-count="0" />
+    <feature id="refactoring.pushDown" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineMacro" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.changeSignature" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickFix" count="499" last-shown="0" last-used="1546624485056" shown-count="0" />
+    <feature id="codeassists.altInsert" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pullUp" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="16" last-shown="0" last-used="1546392582398" shown-count="0" />
+    <feature id="codeassists.parameterInfo" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="1529941855243" last-used="0" shown-count="2" />
+    <feature id="editing.completion.basic" count="522" last-shown="0" last-used="1546624520708" shown-count="0" />
+    <feature id="refactoring.inlineConst" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="generate.definitions" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceDefine" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="96" last-shown="0" last-used="1546714594471" shown-count="0" />
+    <feature id="refactoring.extractSuperclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="109" last-shown="0" last-used="1546323042272" shown-count="0" />
+    <feature id="refactoring.inlineMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractSubclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="1546566644111" last-used="0" shown-count="213" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.new.cmake.project" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="1529941855243" last-used="0" shown-count="2" />
+    <feature id="refactoring.introduceParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineLocalVar" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.appCodeIntroduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.moveMembers" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="3404" />
+      <option name="invocations" value="307" />
+      <option name="startDate" value="1511895600000" />
+      <option name="dayCount" value="29" />
+      <option name="lastDate" value="1546542000000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="499" />
+      <option name="startDate" value="1511895600000" />
+      <option name="dayCount" value="38" />
+      <option name="lastDate" value="1546542000000" />
+    </fixesStatsTag>
+  </component>
+  <component name="IntentionsCollector">
+    <Intentions>
+      <entry name="Groovy com.android.tools.idea.lint.ProvideLintFeedbackIntentionAction" count="4" />
+      <entry name="Groovy com.android.tools.idea.lint.SuppressLintIntentionAction" count="14" />
+      <entry name="Groovy intention.impl.IntentionHintComponent$EditIntentionSettingsAction" count="2" />
+      <entry name="Groovy org.jetbrains.android.inspections.lint.AndroidLintExternalAnnotator$MyFixingIntention" count="7" />
+      <entry name="Groovy org.jetbrains.android.intentions.AndroidAddLibraryDependencyAction" count="7" />
+      <entry name="Groovy org.jetbrains.plugins.groovy.intentions.declaration.GrIntroduceLocalVariableIntention" count="1" />
+      <entry name="Groovy ui.EditorNotificationPanel$MyLinkOption" count="72" />
+      <entry name="JAVA codeInspection.AddAssertStatementFix" count="3" />
+      <entry name="JAVA codeInspection.MoveFieldAssignmentToInitializerInspection$MoveFieldAssignmentToInitializerFix" count="2" />
+      <entry name="JAVA codeInspection.actions.CleanupAllIntention" count="1" />
+      <entry name="JAVA codeInspection.actions.UnimplementInterfaceAction" count="2" />
+      <entry name="JAVA codeInspection.dataFlow.fix.SurroundWithRequireNonNullFix" count="1" />
+      <entry name="JAVA codeInspection.ex.EditInspectionToolsSettingsAction" count="1" />
+      <entry name="JAVA com.android.tools.idea.lint.SuppressLintIntentionAction" count="1" />
+      <entry name="JAVA com.siyeh.ipp.asserttoif.ObjectsRequireNonNullIntention" count="3" />
+      <entry name="JAVA com.siyeh.ipp.modifiers.MakePackagePrivateIntention" count="2" />
+      <entry name="JAVA com.siyeh.ipp.modifiers.MakePrivateIntention" count="1" />
+      <entry name="JAVA com.siyeh.ipp.modifiers.MakePublicIntention" count="1" />
+      <entry name="JAVA daemon.impl.analysis.AnnotationsHighlightUtil$DeleteAnnotationAction" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.AddMethodQualifierFix" count="3" />
+      <entry name="JAVA daemon.impl.quickfix.AddVariableInitializerFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.ChangeClassSignatureFromUsageFix" count="2" />
+      <entry name="JAVA daemon.impl.quickfix.ChangeParameterClassFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.CreateClassFromUsageFix" count="7" />
+      <entry name="JAVA daemon.impl.quickfix.CreateConstructorParameterFromFieldFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.CreateInnerClassFromUsageFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.ImplementMethodsFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.ImportClassFix" count="23" />
+      <entry name="JAVA daemon.impl.quickfix.PullAsAbstractUpFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.RenameWrongRefFix" count="2" />
+      <entry name="JAVA daemon.impl.quickfix.VariableTypeFix" count="4" />
+      <entry name="JAVA formatting.contextConfiguration.ConfigureCodeStyleOnSelectedFragment" count="1" />
+      <entry name="JAVA intention.impl.AnnotateIntentionAction" count="1" />
+      <entry name="JAVA intention.impl.CreateFieldFromParameterAction" count="1" />
+      <entry name="JAVA intention.impl.IntroduceVariableIntentionAction" count="4" />
+      <entry name="JAVA intention.impl.PriorityIntentionActionWrapper$HighPriorityIntentionActionWrapper" count="1" />
+      <entry name="JAVA intention.impl.SplitDeclarationAction" count="1" />
+      <entry name="JAVA intention.impl.config.QuickFixFactoryImpl$1" count="1" />
+      <entry name="JAVA lang.java.actions.CreateConstantAction" count="2" />
+      <entry name="JAVA lang.java.actions.CreateMethodAction" count="4" />
+      <entry name="JAVA org.jetbrains.android.inspections.CreateValueResourceQuickFix" count="1" />
+      <entry name="JAVA org.jetbrains.android.inspections.lint.AndroidLintExternalAnnotator$MyFixingIntention" count="1" />
+      <entry name="TEXT spellchecker.quickfixes.ChangeTo" count="1" />
+      <entry name="XML com.android.tools.idea.lint.SuppressLintIntentionAction" count="2" />
+      <entry name="XML org.jetbrains.android.dom.converters.CreateMissingClassQuickFix" count="1" />
+      <entry name="XML ui.EditorNotificationPanel$MyLinkOption" count="1" />
+      <entry name="XML xml.actions.XmlSplitTagAction" count="1" />
+    </Intentions>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Deploy Module to App Engine..." count="1" />
+      <entry path="File -&gt; Close Project" count="50" />
+      <entry path="File -&gt; Export Settings..." count="1" />
+      <entry path="File -&gt; Import Settings..." count="2" />
+      <entry path="File -&gt; Invalidate Caches / Restart..." count="23" />
+      <entry path="File -&gt; New -&gt; File" count="1" />
+      <entry path="File -&gt; New -&gt; Import Module..." count="2" />
+      <entry path="File -&gt; New -&gt; Import Project..." count="1" />
+      <entry path="File -&gt; New -&gt; Import Sample..." count="1" />
+      <entry path="File -&gt; New -&gt; New Project..." count="20" />
+      <entry path="File -&gt; New -&gt; Open..." count="1" />
+      <entry path="File -&gt; Open Recent -&gt; Close Project" count="1" />
+      <entry path="File -&gt; Open..." count="52" />
+      <entry path="File -&gt; Other Settings -&gt; Default Project Structure..." count="1" />
+      <entry path="File -&gt; Other Settings -&gt; Default Settings..." count="3" />
+      <entry path="File -&gt; Profile or Debug APK..." count="4" />
+      <entry path="File -&gt; Project Structure..." count="60" />
+      <entry path="File -&gt; Settings Repository…" count="1" />
+      <entry path="File -&gt; Settings..." count="108" />
+      <entry path="File -&gt; Sync Project with Gradle Files" count="43" />
+      <entry path="File -&gt; Sync with File System" count="4" />
+      <entry path="Help -&gt; Check for Updates..." count="1" />
+      <entry path="Refactor -&gt; Migrate to AndroidX..." count="7" />
+      <entry path="Refactor -&gt; Migrate..." count="1" />
+      <entry path="Refactor -&gt; Refactor This..." count="2" />
+      <entry path="Run -&gt; Apply Changes" count="2" />
+      <entry path="Run -&gt; Debug" count="2" />
+      <entry path="Run -&gt; Edit Configurations..." count="2" />
+      <entry path="Run -&gt; Run" count="1" />
+      <entry path="Run -&gt; Run..." count="1" />
+      <entry path="Tools -&gt; AVD Manager" count="2" />
+      <entry path="Tools -&gt; App Links Assistant" count="1" />
+      <entry path="Tools -&gt; Firebase" count="45" />
+      <entry path="Tools -&gt; SDK Manager" count="21" />
+      <entry path="Tools -&gt; Tasks &amp; Contexts -&gt; Create Changelist..." count="1" />
+      <entry path="VCS -&gt; Commit" count="3" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="3" />
+      <entry path="VCS -&gt; Git -&gt; Add" count="2" />
+      <entry path="VCS -&gt; Git -&gt; Branches..." count="4" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="1" />
+      <entry path="VCS -&gt; Update Project" count="10" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Alt+1" count="1" />
+      <entry shortcut="Alt+7" count="1" />
+      <entry shortcut="Alt+9" count="1" />
+      <entry shortcut="Alt+Backspace" count="2" />
+      <entry shortcut="Alt+Enter" count="211" />
+      <entry shortcut="Backspace" count="5869" />
+      <entry shortcut="Ctrl+Alt+S" count="2" />
+      <entry shortcut="Ctrl+Alt+Y" count="2" />
+      <entry shortcut="Ctrl+F1" count="13" />
+      <entry shortcut="Ctrl+K" count="1" />
+      <entry shortcut="Ctrl+Shift+NumPad /" count="54" />
+      <entry shortcut="Ctrl+V" count="3" />
+      <entry shortcut="Delete" count="1" />
+      <entry shortcut="Enter" count="207" />
+      <entry shortcut="Escape" count="1" />
+      <entry shortcut="NumPad -" count="1423" />
+      <entry shortcut="Shift+F10" count="1" />
+      <entry shortcut="Shift+Shift" count="5" />
+      <entry shortcut="Unknown keyCode: 0x0" count="687" />
+    </counts>
+  </component>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="mark-my-word-master" values="AndroidRunConfigurationType" collectionTime="1546316685515" />
+      <project id="Bidhunter_ru.bidhunter.android_1.0.15" values="AndroidRunConfigurationType" collectionTime="1529927151429" />
+      <project id="Application_assistant" values="AndroidRunConfigurationType" collectionTime="1545935880562" />
+      <project id="MyAssistant" values="AndroidRunConfigurationType" collectionTime="1546623302094" />
+      <project id="Testgeek" values="AndroidRunConfigurationType" collectionTime="1516122879943" />
+      <project id="Android" values="AndroidRunConfigurationType" collectionTime="1510943201415" />
+      <project id="Dagger2-Retrofit2-Example-master" values="AndroidRunConfigurationType" collectionTime="1530328554594" />
+      <project id="MaterialDesign-lesson2-master-b599a9a6646bd4085fb3bb1e9625930b7141217f" values="AndroidRunConfigurationType" collectionTime="1520076640454" />
+      <project id="BarCode" values="AndroidRunConfigurationType" collectionTime="1514169332608" />
+      <project id="TestVS2015" values="Unknown" collectionTime="1544110119403" />
+      <project id="Quotations" values="AndroidRunConfigurationType" collectionTime="1527748393632" />
+      <project id="MaterialDesign-lesson8-master-4a5bd2ad2d4fb7b3cbe3f3b8e3d2bad840976460" values="AndroidRunConfigurationType" collectionTime="1521565060736" />
+      <project id="Resident" values="AndroidRunConfigurationType" collectionTime="1520569928760" />
+      <project id="assistant" values="AndroidRunConfigurationType" collectionTime="1545942936462" />
+      <project id="SQLieteDatabaseExample" values="AndroidRunConfigurationType" collectionTime="1513269571654" />
+      <project id="CheckBoxPreference" values="AndroidRunConfigurationType" collectionTime="1514656540774" />
+      <project id="BarCodeScanner" values="AndroidRunConfigurationType" collectionTime="1520570716156" />
+      <project id="WidgetExample2" values="AndroidRunConfigurationType" collectionTime="1514611742886" />
+      <project id="NavigationDriverExample" values="AndroidRunConfigurationType" collectionTime="1512481244112" />
+      <project id="Realm" values="AndroidRunConfigurationType" collectionTime="1528429601101" />
+      <project id="Assistant" values="AndroidRunConfigurationType" collectionTime="1546418035668" />
+      <project id="News-master" values="AndroidRunConfigurationType" collectionTime="1526491112165" />
+      <project id="MyApplication8" values="AndroidRunConfigurationType" collectionTime="1521351352332" />
+      <project id="MyApplication6" values="AndroidRunConfigurationType" collectionTime="1520775830393" />
+      <project id="geek-drop-box" values="Application" collectionTime="1511631345063" />
+      <project id="Retrofit3" values="AndroidRunConfigurationType" collectionTime="1528340626304" />
+      <project id="MyApplication3" values="AndroidRunConfigurationType" collectionTime="1530204495488" />
+      <project id="MyApplication2" values="AndroidRunConfigurationType" collectionTime="1520574121075" />
+      <project id="AsyncTask" values="AndroidRunConfigurationType" collectionTime="1514611784838" />
+      <project id="Lesson_3" values="AndroidRunConfigurationType" collectionTime="1512569814461" />
+      <project id="java_games-master" values="Unknown,AndroidRunConfigurationType" collectionTime="1515607431416" />
+      <project id="assistent" values="AndroidRunConfigurationType" collectionTime="1545904287251" />
+      <project id="Android_tests" values="AndroidRunConfigurationType" collectionTime="1514626824606" />
+      <project id="SharedPreferencesExample" values="AndroidRunConfigurationType" collectionTime="1529938564869" />
+      <project id="MyApplication5" values="AndroidRunConfigurationType" collectionTime="1521002018216" />
+      <project id="Expand-CollapseToolbar" values="AndroidRunConfigurationType" collectionTime="1513962925311" />
+      <project id="Dagger2_retrofit" values="AndroidRunConfigurationType" collectionTime="1530286957470" />
+      <project id="WeatherApp" values="AndroidRunConfigurationType" collectionTime="1513367972973" />
+      <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1545935923395" />
+      <project id="Assistant2" values="AndroidRunConfigurationType" collectionTime="1545884150786" />
+      <project id="Server" values="AndroidRunConfigurationType" collectionTime="1528393247878" />
+      <project id="MyApp" values="AndroidRunConfigurationType" collectionTime="1546235326652" />
+      <project id="MaterialDesign-lesson3-master-9e67f9cfe6895f0024bfb4e50e7562a5bc08ec11" values="AndroidRunConfigurationType" collectionTime="1520342913787" />
+      <project id="Retrofit" values="AndroidRunConfigurationType" collectionTime="1528363648347" />
+    </group>
+    <group name="module type">
+      <project id="mark-my-word-master" values="JAVA_MODULE" collectionTime="1546316685499" />
+      <project id="Bidhunter_ru.bidhunter.android_1.0.15" values="JAVA_MODULE" collectionTime="1529927151429" />
+      <project id="Application_assistant" values="JAVA_MODULE" collectionTime="1545935880560" />
+      <project id="MyAssistant" values="JAVA_MODULE" collectionTime="1546623302093" />
+      <project id="DropboxEntyty" values="JAVA_MODULE" collectionTime="1511631262160" />
+      <project id="Android" values="JAVA_MODULE" collectionTime="1510943201407" />
+      <project id="Dagger2-Retrofit2-Example-master" values="JAVA_MODULE" collectionTime="1530328554592" />
+      <project id="BarCode" values="JAVA_MODULE" collectionTime="1514169332608" />
+      <project id="TestVS2015" values="CPP_MODULE" collectionTime="1544110119358" />
+      <project id="Bidhunter_ru.bidhunter.android_1.0.15.apk" values="JAVA_MODULE" collectionTime="1528292333911" />
+      <project id="MaterialDesign-lesson8-master-4a5bd2ad2d4fb7b3cbe3f3b8e3d2bad840976460" values="JAVA_MODULE" collectionTime="1521565060706" />
+      <project id="assistant" values="JAVA_MODULE" collectionTime="1545942936462" />
+      <project id="SQLieteDatabaseExample" values="JAVA_MODULE" collectionTime="1513269571654" />
+      <project id="CheckBoxPreference" values="JAVA_MODULE" collectionTime="1514656540774" />
+      <project id="Quotations" values="JAVA_MODULE" collectionTime="1527748393548" />
+      <project id="Assistant" values="JAVA_MODULE" collectionTime="1546418035668" />
+      <project id="dropbox-sdk-java-master" values="JAVA_MODULE" collectionTime="1510974451365" />
+      <project id="BarCodeScanner" values="JAVA_MODULE" collectionTime="1520570716156" />
+      <project id="WidgetExample2" values="JAVA_MODULE" collectionTime="1514611742886" />
+      <project id="NavigationDriverExample" values="JAVA_MODULE" collectionTime="1512481244110" />
+      <project id="ExternalStorageExample" values="JAVA_MODULE" collectionTime="1529933704461" />
+      <project id="My Application" values="JAVA_MODULE" collectionTime="1544091509806" />
+      <project id="Retrofit" values="JAVA_MODULE" collectionTime="1528363648346" />
+      <project id="News-master" values="JAVA_MODULE" collectionTime="1526491112165" />
+      <project id="Testgeek" values="JAVA_MODULE" collectionTime="1516122879943" />
+      <project id="Android_Avd_Home" values="JAVA_MODULE" collectionTime="1512019464700" />
+      <project id="MyApplication6" values="JAVA_MODULE" collectionTime="1520775830393" />
+      <project id="geek-drop-box" values="JAVA_MODULE" collectionTime="1511631345063" />
+      <project id="Realm" values="JAVA_MODULE" collectionTime="1528429583657" />
+      <project id="MyApplication3" values="JAVA_MODULE" collectionTime="1530204495472" />
+      <project id="MyApplication2" values="JAVA_MODULE" collectionTime="1520574121055" />
+      <project id="AsyncTask" values="JAVA_MODULE" collectionTime="1514611784838" />
+      <project id="Lesson_3" values="JAVA_MODULE" collectionTime="1512569814216" />
+      <project id="java_games-master" values="JAVA_MODULE" collectionTime="1515607431400" />
+      <project id="assistent" values="JAVA_MODULE" collectionTime="1545904287248" />
+      <project id="Firebase.Authentication.CloudTasks-master" values="JAVA_MODULE" collectionTime="1546345123248" />
+      <project id="SharedPreferencesExample" values="JAVA_MODULE" collectionTime="1529938564869" />
+      <project id="Android_tests" values="JAVA_MODULE" collectionTime="1514626824589" />
+      <project id="MyApplication8" values="JAVA_MODULE" collectionTime="1521351352288" />
+      <project id="Expand-CollapseToolbar" values="JAVA_MODULE" collectionTime="1513962925279" />
+      <project id="Dagger2_retrofit" values="JAVA_MODULE" collectionTime="1530286957469" />
+      <project id="Space-shooter-master" values="JAVA_MODULE" collectionTime="1545323816261" />
+      <project id="WeatherApp" values="JAVA_MODULE" collectionTime="1513367972944" />
+      <project id="app" values="JAVA_MODULE" collectionTime="1526578870463" />
+      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1545935923395" />
+      <project id="MyApplication5" values="JAVA_MODULE" collectionTime="1521002018176" />
+      <project id="Retrofit3" values="JAVA_MODULE" collectionTime="1528340626280" />
+      <project id="Assistant2" values="JAVA_MODULE" collectionTime="1545884150784" />
+      <project id="Server" values="JAVA_MODULE" collectionTime="1528393247875" />
+      <project id="MyApp" values="JAVA_MODULE" collectionTime="1546235326651" />
+      <project id="MaterialDesign-lesson3-master-9e67f9cfe6895f0024bfb4e50e7562a5bc08ec11" values="JAVA_MODULE" collectionTime="1520342913749" />
+      <project id="MaterialDesign-lesson2-master-b599a9a6646bd4085fb3bb1e9625930b7141217f" values="JAVA_MODULE" collectionTime="1520076640392" />
+    </group>
+    <group name="vcs">
+      <project id="Android" values="Git" collectionTime="1510943201401" />
+      <project id="DropboxEntyty" values="Git" collectionTime="1511631262155" />
+      <project id="Assistant2" values="Git" collectionTime="1545884150414" />
+      <project id="Assistant" values="Git" collectionTime="1546418035599" />
+      <project id="Expand-CollapseToolbar" values="Git" collectionTime="1513962925252" />
+      <project id="News-master" values="Git" collectionTime="1526491112165" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="Assistant2" values="data.branches.count.1+,data.commit.count.1+,data.users.count.1+,data.git.root.count.1" collectionTime="1545884152182" />
+      <project id="Android" values="data.branches.count.1+,data.users.count.1+,data.git.root.count.1,data.commit.count.1+" collectionTime="1510943201654" />
+      <project id="Expand-CollapseToolbar" values="data.commit.count.0,data.git.root.count.1,data.users.count.0,data.branches.count.0" collectionTime="1513962926095" />
+      <project id="DropboxEntyty" values="data.commit.count.1+,data.branches.count.1+,data.users.count.1+,data.git.root.count.1" collectionTime="1511631263908" />
+      <project id="Assistant" values="data.commit.count.1+,data.users.count.1+,data.branches.count.1+,data.git.root.count.1" collectionTime="1546418036401" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="MyApplication" values="GradleRunConfiguration" collectionTime="1545935923395" />
+      <project id="SQLieteDatabaseExample" values="AndroidRunConfigurationType" collectionTime="1513269571654" />
+      <project id="Assistant" values="AndroidTestRunConfigurationType" collectionTime="1546418035668" />
+      <project id="Application_assistant" values="GradleRunConfiguration" collectionTime="1545935880562" />
+      <project id="assistant" values="GradleRunConfiguration" collectionTime="1545942936462" />
+    </group>
+    <group name="file-type">
+      <project id="mark-my-word-master" values="JAVA,PLAIN_TEXT,XML,ARCHIVE,Properties,Image,Groovy,ProGuard File,IDEA_MODULE" collectionTime="1546316685499" />
+      <project id="Bidhunter_ru.bidhunter.android_1.0.15" values="Images,ProGuard File,CSS,AIDL,XML,APK,JSON,Smali,PATCH,ARCHIVE,Manifest,Font,HTML,JAVA,UNKNOWN,ModuleMap,ObjectiveC,JavaScript,CLASS,Properties,PLAIN_TEXT,IDEA_MODULE,Android RenderScript" collectionTime="1529927151575" />
+      <project id="Application_assistant" values="JSON,Groovy,PLAIN_TEXT,Image,IDEA_MODULE,JAVA,XML,Properties,ARCHIVE,ProGuard File" collectionTime="1545935880559" />
+      <project id="MyAssistant" values="XML,Groovy,Image,JSON,PLAIN_TEXT,Properties,ARCHIVE,JAVA,ProGuard File,IDEA_MODULE" collectionTime="1546623302092" />
+      <project id="DropboxEntyty" values="ARCHIVE,JAVA,ProGuard File,XML,HTML,Groovy,Images,UNKNOWN,IDEA_MODULE,JSON,Properties,PLAIN_TEXT" collectionTime="1511631263906" />
+      <project id="Android" values="IDEA_MODULE,Manifest,HTML,ProGuard File,JAVA,APK,CSS,ARCHIVE,Images,CLASS,JSON,Groovy,XML,UNKNOWN,PLAIN_TEXT,Properties,AIDL" collectionTime="1510943201512" />
+      <project id="Dagger2-Retrofit2-Example-master" values="Properties,PLAIN_TEXT,Groovy,Images,IDEA_MODULE,ARCHIVE,XML,JAVA,ProGuard File" collectionTime="1530328554845" />
+      <project id="BarCode" values="Images,JAVA,ARCHIVE,IDEA_MODULE,XML,PLAIN_TEXT,ProGuard File,JSON,Groovy,Properties" collectionTime="1514169333346" />
+      <project id="Bidhunter_ru.bidhunter.android_1.0.15.apk" values="APK" collectionTime="1528292334133" />
+      <project id="MaterialDesign-lesson8-master-4a5bd2ad2d4fb7b3cbe3f3b8e3d2bad840976460" values="Images,ProGuard File,JSON,PLAIN_TEXT,ARCHIVE,JAVA,XML,Properties,IDEA_MODULE,Groovy" collectionTime="1521565060971" />
+      <project id="assistant" values="ARCHIVE,IDEA_MODULE,ProGuard File,Properties,JAVA,PLAIN_TEXT,XML,Image,JSON,Groovy" collectionTime="1545942936462" />
+      <project id="SQLieteDatabaseExample" values="IDEA_MODULE,AIDL,UNKNOWN,ARCHIVE,Properties,JAVA,ProGuard File,Groovy,Images,XML,PLAIN_TEXT" collectionTime="1513269572486" />
+      <project id="CheckBoxPreference" values="XML,PLAIN_TEXT,ARCHIVE,JSON,Groovy,Images,IDEA_MODULE,Properties,JAVA,ProGuard File" collectionTime="1514656541012" />
+      <project id="Quotations" values="Properties,Images,ARCHIVE,Groovy,XML,IDEA_MODULE,ProGuard File,JAVA,PLAIN_TEXT" collectionTime="1527748410389" />
+      <project id="Assistant" values="Groovy,IDEA_MODULE,XML,JAVA,JSON,Image,Properties,ProGuard File,ARCHIVE,PLAIN_TEXT" collectionTime="1546418035668" />
+      <project id="dropbox-sdk-java-master" values="Groovy,JAVA,Images,ARCHIVE,ProGuard File,Properties,XML,PLAIN_TEXT,JSON" collectionTime="1510974452301" />
+      <project id="BarCodeScanner" values="Images,XML,ARCHIVE,PLAIN_TEXT,IDEA_MODULE,Properties,ProGuard File,JAVA,JSON,Groovy" collectionTime="1520570716231" />
+      <project id="WidgetExample2" values="JAVA,XML,IDEA_MODULE,ProGuard File,Properties,AIDL,Groovy,Images,ARCHIVE,PLAIN_TEXT" collectionTime="1514611743125" />
+      <project id="NavigationDriverExample" values="PLAIN_TEXT,ARCHIVE,Properties,ProGuard File,IDEA_MODULE,JAVA,UNKNOWN,AIDL,Images,XML,Groovy" collectionTime="1512481244541" />
+      <project id="ExternalStorageExample" values="ProGuard File,Groovy,JAVA,Images,XML,ARCHIVE,JSON,UNKNOWN,Properties,PLAIN_TEXT,IDEA_MODULE" collectionTime="1529933704490" />
+      <project id="My Application" values="UNKNOWN,ObjectiveC,JAVA,ARCHIVE,XML,ProGuard File,IDEA_MODULE,Properties,PLAIN_TEXT,Groovy,Images" collectionTime="1544091510212" />
+      <project id="Retrofit" values="IDEA_MODULE,XML,JAVA,PLAIN_TEXT,Properties,ProGuard File,ARCHIVE,Images,Groovy,JSON" collectionTime="1528363648470" />
+      <project id="News-master" values="PLAIN_TEXT,IDEA_MODULE,Groovy,JAVA,Images,Properties,JSON,XML,ProGuard File,ARCHIVE" collectionTime="1526491112213" />
+      <project id="Testgeek" values="ProGuard File,JAVA,IDEA_MODULE,Groovy,ARCHIVE,Properties,XML,PLAIN_TEXT,JSON,Images" collectionTime="1516122880045" />
+      <project id="Android_Avd_Home" values="XML,ARCHIVE,IDEA_MODULE,Groovy,JAVA,JSON,UNKNOWN,Images,PLAIN_TEXT,Properties,ProGuard File" collectionTime="1512019465787" />
+      <project id="MyApplication6" values="XML,ARCHIVE,PLAIN_TEXT,JSON,IDEA_MODULE,ProGuard File,Properties,Groovy,JAVA,Images" collectionTime="1520775830502" />
+      <project id="geek-drop-box" values="XML,IDEA_MODULE,JAVA,ARCHIVE" collectionTime="1511631345156" />
+      <project id="Realm" values="Properties,ARCHIVE,Images,JSON,IDEA_MODULE,Groovy,PLAIN_TEXT,JAVA,XML,ProGuard File" collectionTime="1528429636814" />
+      <project id="MyApplication3" values="ProGuard File,XML,ARCHIVE,Images,IDEA_MODULE,Groovy,JAVA,Properties,PLAIN_TEXT" collectionTime="1530204496000" />
+      <project id="MyApplication2" values="IDEA_MODULE,JAVA,XML,JSON,ARCHIVE,Groovy,PLAIN_TEXT,ProGuard File,Properties,Images" collectionTime="1520574121298" />
+      <project id="AsyncTask" values="PLAIN_TEXT,JAVA,XML,ARCHIVE,ProGuard File,Images,Groovy,Properties,JSON,IDEA_MODULE" collectionTime="1514611784885" />
+      <project id="Lesson_3" values="JSON,Groovy,JAVA,ProGuard File,Images,XML,PLAIN_TEXT,IDEA_MODULE,UNKNOWN,Properties,ARCHIVE" collectionTime="1512569831194" />
+      <project id="java_games-master" values="Properties,XML,ProGuard File,UNKNOWN,ARCHIVE,IDEA_MODULE,ObjectiveC,Images,Groovy,PLAIN_TEXT,JAVA" collectionTime="1515607431583" />
+      <project id="assistent" values="ARCHIVE,IDEA_MODULE,Groovy,JAVA,Properties,XML,Image,PLAIN_TEXT,JSON,ProGuard File" collectionTime="1545904287246" />
+      <project id="Firebase.Authentication.CloudTasks-master" values="Image,ARCHIVE,JSON,PLAIN_TEXT,IDEA_MODULE,ProGuard File,JAVA,XML,Groovy,Properties" collectionTime="1546345123248" />
+      <project id="SharedPreferencesExample" values="XML,IDEA_MODULE,JAVA,Groovy,JSON,PLAIN_TEXT,Images,ARCHIVE,Properties,ProGuard File" collectionTime="1529938564947" />
+      <project id="Android_tests" values="XML,JAVA,Properties,PLAIN_TEXT,Images,IDEA_MODULE,ARCHIVE,ProGuard File,JSON,Groovy" collectionTime="1514626828963" />
+      <project id="MyApplication8" values="XML,JSON,IDEA_MODULE,ARCHIVE,PLAIN_TEXT,Groovy,JAVA,Properties,Images,ProGuard File" collectionTime="1521351352935" />
+      <project id="Expand-CollapseToolbar" values="ARCHIVE,JAVA,Images,Groovy,AIDL,Properties,UNKNOWN,ProGuard File,XML,IDEA_MODULE,PLAIN_TEXT" collectionTime="1513962925623" />
+      <project id="Dagger2_retrofit" values="Groovy,JAVA,Images,PLAIN_TEXT,Properties,ProGuard File,ARCHIVE,IDEA_MODULE,XML" collectionTime="1530286957591" />
+      <project id="Space-shooter-master" values="Properties,PLAIN_TEXT,XML,ARCHIVE,JAVA,Groovy,Image,ProGuard File,UNKNOWN" collectionTime="1545323816261" />
+      <project id="WeatherApp" values="XML,ProGuard File,IDEA_MODULE,PLAIN_TEXT,Groovy,Images,Font,JAVA,UNKNOWN,JSON,Properties,ARCHIVE" collectionTime="1513367973200" />
+      <project id="app" values="JAVA,Properties,IDEA_MODULE,ProGuard File,APK,Groovy,XML,Images,JSON,Kotlin,ARCHIVE,UNKNOWN,CLASS,PLAIN_TEXT" collectionTime="1526578871020" />
+      <project id="MyApplication" values="JAVA,ProGuard File,IDEA_MODULE,ARCHIVE,Properties,XML,Groovy,Image,JSON,PLAIN_TEXT" collectionTime="1545935923395" />
+      <project id="MyApplication5" values="Groovy,Images,JAVA,ARCHIVE,PLAIN_TEXT,JSON,XML,Properties,ProGuard File,IDEA_MODULE" collectionTime="1521002021465" />
+      <project id="Retrofit3" values="Groovy,XML,Properties,ARCHIVE,IDEA_MODULE,Images,PLAIN_TEXT,JSON,JAVA,ProGuard File" collectionTime="1528340627723" />
+      <project id="Assistant2" values="IDEA_MODULE,JAVA,ARCHIVE,PLAIN_TEXT,ProGuard File,Image,XML,Properties,Groovy,JSON" collectionTime="1545884150781" />
+      <project id="Server" values="XML,Images,ProGuard File,ARCHIVE,IDEA_MODULE,Groovy,JAVA,Properties,PLAIN_TEXT,JSON" collectionTime="1528393248039" />
+      <project id="MyApp" values="ARCHIVE,Properties,Groovy,Image,XML,JAVA,PLAIN_TEXT,ProGuard File,IDEA_MODULE" collectionTime="1546235326651" />
+      <project id="MaterialDesign-lesson3-master-9e67f9cfe6895f0024bfb4e50e7562a5bc08ec11" values="Images,JSON,Properties,PLAIN_TEXT,ProGuard File,JAVA,XML,IDEA_MODULE,Groovy,ARCHIVE" collectionTime="1520342914359" />
+      <project id="MaterialDesign-lesson2-master-b599a9a6646bd4085fb3bb1e9625930b7141217f" values="JSON,Groovy,XML,PLAIN_TEXT,Properties,IDEA_MODULE,JAVA,ARCHIVE,Images,ProGuard File" collectionTime="1520076646688" />
+    </group>
+    <group name="Run Dashboard">
+      <project id="Quotations" values="run.dashboard.disabled" collectionTime="1527748410507" />
+      <project id="Bidhunter_ru.bidhunter.android_1.0.15.apk" values="run.dashboard.disabled" collectionTime="1528292334208" />
+      <project id="MyApplication" values="run.dashboard.disabled" collectionTime="1545935923949" />
+      <project id="MyApp" values="run.dashboard.disabled" collectionTime="1546235327983" />
+      <project id="Dagger2-Retrofit2-Example-master" values="run.dashboard.disabled" collectionTime="1530328554854" />
+      <project id="Retrofit3" values="run.dashboard.disabled" collectionTime="1528340627723" />
+      <project id="Server" values="run.dashboard.disabled" collectionTime="1528393248074" />
+      <project id="Firebase.Authentication.CloudTasks-master" values="run.dashboard.disabled" collectionTime="1546345123975" />
+      <project id="assistant" values="run.dashboard.disabled" collectionTime="1545942937600" />
+      <project id="My Application" values="run.dashboard.disabled" collectionTime="1544091510228" />
+      <project id="TestVS2015" values="run.dashboard.disabled" collectionTime="1544110121154" />
+      <project id="mark-my-word-master" values="run.dashboard.disabled" collectionTime="1546316686485" />
+      <project id="SharedPreferencesExample" values="run.dashboard.disabled" collectionTime="1529938564947" />
+      <project id="Assistant" values="run.dashboard.disabled" collectionTime="1546418036370" />
+      <project id="Realm" values="run.dashboard.disabled" collectionTime="1528429639767" />
+      <project id="ExternalStorageExample" values="run.dashboard.disabled" collectionTime="1529933704490" />
+      <project id="Retrofit" values="run.dashboard.disabled" collectionTime="1528363648470" />
+      <project id="app" values="run.dashboard.disabled" collectionTime="1526578871025" />
+      <project id="Dagger2_retrofit" values="run.dashboard.disabled" collectionTime="1530286957591" />
+      <project id="Bidhunter_ru.bidhunter.android_1.0.15" values="run.dashboard.disabled" collectionTime="1529927151575" />
+      <project id="MyApplication3" values="run.dashboard.disabled" collectionTime="1530204496006" />
+      <project id="Space-shooter-master" values="run.dashboard.disabled" collectionTime="1545323817683" />
+      <project id="MyAssistant" values="run.dashboard.disabled" collectionTime="1546623302902" />
+      <project id="Assistant2" values="run.dashboard.disabled" collectionTime="1545884152057" />
+      <project id="Application_assistant" values="run.dashboard.disabled" collectionTime="1545935882123" />
+      <project id="assistent" values="run.dashboard.disabled" collectionTime="1545904288787" />
+    </group>
+    <group name="kotlin.formatter">
+      <project id="Quotations" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1527748446898" />
+      <project id="Bidhunter_ru.bidhunter.android_1.0.15.apk" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1528292343205" />
+      <project id="MyApplication" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1545935923967" />
+      <project id="MyApp" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1546235328271" />
+      <project id="Dagger2-Retrofit2-Example-master" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1530328556106" />
+      <project id="Retrofit3" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1528340629049" />
+      <project id="Server" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1528393249757" />
+      <project id="Firebase.Authentication.CloudTasks-master" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1546345123990" />
+      <project id="assistant" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1545942938617" />
+      <project id="My Application" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1544091512572" />
+      <project id="TestVS2015" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1544110124845" />
+      <project id="mark-my-word-master" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1546316686518" />
+      <project id="SharedPreferencesExample" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1529938565852" />
+      <project id="Assistant" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1546418036655" />
+      <project id="Realm" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1528429815529" />
+      <project id="ExternalStorageExample" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1529933704496" />
+      <project id="Retrofit" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1528363648636" />
+      <project id="app" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1526578872302" />
+      <project id="Dagger2_retrofit" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1530286957603" />
+      <project id="Bidhunter_ru.bidhunter.android_1.0.15" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1529927151927" />
+      <project id="MyApplication3" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1530204500246" />
+      <project id="Space-shooter-master" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1545323818407" />
+      <project id="MyAssistant" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1546623303187" />
+      <project id="Assistant2" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1545884153249" />
+      <project id="Application_assistant" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1545935883833" />
+      <project id="assistent" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1545904290698" />
+    </group>
+    <group name="module-language-level">
+      <project id="mark-my-word-master" values="JDK_1_8" collectionTime="1546316686487" />
+      <project id="Bidhunter_ru.bidhunter.android_1.0.15" values="JDK_1_8" collectionTime="1529927151581" />
+      <project id="Application_assistant" values="JDK_1_7" collectionTime="1545935882798" />
+      <project id="MyAssistant" values="JDK_1_7" collectionTime="1546623302964" />
+      <project id="DropboxEntyty" values="JDK_1_8" collectionTime="1511631263911" />
+      <project id="Android" values="JDK_1_7" collectionTime="1510943201664" />
+      <project id="Dagger2-Retrofit2-Example-master" values="JDK_1_7" collectionTime="1530328555025" />
+      <project id="BarCode" values="JDK_1_7" collectionTime="1514169333362" />
+      <project id="TestVS2015" values="JDK_1_9" collectionTime="1544110121387" />
+      <project id="Bidhunter_ru.bidhunter.android_1.0.15.apk" values="JDK_1_9" collectionTime="1528292334521" />
+      <project id="MaterialDesign-lesson8-master-4a5bd2ad2d4fb7b3cbe3f3b8e3d2bad840976460" values="JDK_1_7" collectionTime="1521565061387" />
+      <project id="assistant" values="JDK_1_7" collectionTime="1545942937816" />
+      <project id="SQLieteDatabaseExample" values="JDK_1_7" collectionTime="1513269573041" />
+      <project id="CheckBoxPreference" values="JDK_1_7" collectionTime="1514656541193" />
+      <project id="Quotations" values="JDK_1_7" collectionTime="1527748423790" />
+      <project id="Assistant" values="JDK_1_6" collectionTime="1546418036401" />
+      <project id="dropbox-sdk-java-master" values="JDK_1_6" collectionTime="1510974452445" />
+      <project id="BarCodeScanner" values="JDK_1_7" collectionTime="1520570716242" />
+      <project id="WidgetExample2" values="JDK_1_7" collectionTime="1514611743262" />
+      <project id="NavigationDriverExample" values="JDK_1_7" collectionTime="1512481245000" />
+      <project id="ExternalStorageExample" values="JDK_1_9" collectionTime="1529933704494" />
+      <project id="My Application" values="JDK_1_7" collectionTime="1544091510306" />
+      <project id="Retrofit" values="JDK_1_8" collectionTime="1528363648631" />
+      <project id="News-master" values="JDK_1_8" collectionTime="1526491112354" />
+      <project id="Testgeek" values="JDK_1_7" collectionTime="1516122880050" />
+      <project id="Android_Avd_Home" values="JDK_1_8" collectionTime="1512019466492" />
+      <project id="MyApplication6" values="JDK_1_7" collectionTime="1520775830507" />
+      <project id="geek-drop-box" values="JDK_1_8" collectionTime="1511631345257" />
+      <project id="Realm" values="JDK_1_8" collectionTime="1528429666270" />
+      <project id="MyApplication3" values="JDK_1_7" collectionTime="1530204496627" />
+      <project id="MyApplication2" values="JDK_1_7" collectionTime="1520574122547" />
+      <project id="AsyncTask" values="JDK_1_7" collectionTime="1514611784901" />
+      <project id="Lesson_3" values="JDK_1_7" collectionTime="1512569843109" />
+      <project id="java_games-master" values="JDK_1_7,JDK_1_6" collectionTime="1515607431780" />
+      <project id="assistent" values="JDK_1_7" collectionTime="1545904289228" />
+      <project id="Firebase.Authentication.CloudTasks-master" values="JDK_1_9" collectionTime="1546345123975" />
+      <project id="SharedPreferencesExample" values="JDK_1_7" collectionTime="1529938565850" />
+      <project id="Android_tests" values="JDK_1_7" collectionTime="1514626830011" />
+      <project id="MyApplication8" values="JDK_1_7" collectionTime="1521351353457" />
+      <project id="Expand-CollapseToolbar" values="JDK_1_7" collectionTime="1513962926159" />
+      <project id="Dagger2_retrofit" values="JDK_1_7" collectionTime="1530286957601" />
+      <project id="Space-shooter-master" values="JDK_1_9" collectionTime="1545323817736" />
+      <project id="WeatherApp" values="JDK_1_7" collectionTime="1513367973607" />
+      <project id="app" values="JDK_1_9" collectionTime="1526578871117" />
+      <project id="MyApplication" values="JDK_1_7" collectionTime="1545935923950" />
+      <project id="MyApplication5" values="JDK_1_7" collectionTime="1521002023977" />
+      <project id="Retrofit3" values="JDK_1_8" collectionTime="1528340628967" />
+      <project id="Assistant2" values="JDK_1_7" collectionTime="1545884152198" />
+      <project id="Server" values="JDK_1_8" collectionTime="1528393248294" />
+      <project id="MyApp" values="JDK_1_7" collectionTime="1546235327986" />
+      <project id="MaterialDesign-lesson3-master-9e67f9cfe6895f0024bfb4e50e7562a5bc08ec11" values="JDK_1_7" collectionTime="1520342915189" />
+      <project id="MaterialDesign-lesson2-master-b599a9a6646bd4085fb3bb1e9625930b7141217f" values="JDK_1_7" collectionTime="1520076651029" />
+    </group>
+    <group name="all-bundled-tools">
+      <project id="MyApp" values="JAVA.StringBufferReplaceableByString,JAVA.AssignmentToForLoopParameter,JAVA.TryWithIdenticalCatches,JAVA.EqualsReplaceableByObjectsCall,JAVA.MethodWithMultipleReturnPoints,JAVA.CallToNotifyInsteadOfNotifyAll,null.AndroidLintIconColors,JAVA.LawOfDemeter,null.AndroidLintShowToast,JAVA.MethodWithMultipleLoops,kotlin.RecursivePropertyAccessor,RegExp.RegExpAnonymousGroup,kotlin.LocalVariableName,JAVA.WaitOrAwaitWithoutTimeout,kotlin.ObjectPropertyName,JAVA.BeforeOrAfterWithIncorrectSignature,JAVA.ReturnSeparatedFromComputation,null.AndroidLintResourceType,JAVA.ClassOnlyUsedInOneModule,JAVA.ObviousNullCheck,JAVA.StaticMethodReferencedViaSubclass,JAVA.StringConcatenationMissingWhitespace,Groovy.GroovyMethodWithMoreThanThreeNegations,JAVA.EndlessStream,JAVA.NonFinalFieldReferenceInEquals,kotlin.UsePropertyAccessSyntax,JAVA.BigDecimalEquals,JAVA.Objec

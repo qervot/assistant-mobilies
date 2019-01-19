@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assistant</string>
+    <string name="large_text">
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_email_password">EmailPasswordActivity</string>
+    <string name="email">string</string>
+    <string name="password">string</string>
+    <string name="autorization">string</string>
+    <string name="registration">string</string>
+</resources>
